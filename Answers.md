@@ -1,5 +1,7 @@
 Mention two parts of Express that you learned about this week.
 
+Routing and Middleware
+
  Describe Middleware?
 
  Middleware is custom code or used from a third party library that allows us to inject code before it reaches the server endpoints, used for logging and authentication.
